@@ -72,6 +72,31 @@ body {
     margin-bottom: 40px;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    font-family: "light italic";
+    font-size: 36px;
+    color: #1f2937;
+    padding: 100px;
+}
+
+.quote-box {
+    width: 800px;
+}
+
+.auther {
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: right;
+   
+}
+
+
+
 .block {
     width: 300px;
 }
