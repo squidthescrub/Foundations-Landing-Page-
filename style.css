@@ -95,6 +95,35 @@ body {
    
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+}
+.action-box {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    background-color: #3882f6;
+    border-radius: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+}
+
+.button {
+    background-color: #3882f6;
+    color:      white;
+    border-radius: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: white;
+}
 
 
 .block {
