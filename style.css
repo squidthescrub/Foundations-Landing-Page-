@@ -1,4 +1,5 @@
 body {
+    font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
     margin: 0px;
@@ -10,7 +11,6 @@ body {
     justify-content: center;
     background-color: #1F2937;
     padding-bottom: 100px;
-    
 }
 
 .inside-header {
@@ -162,3 +162,4 @@ img {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
